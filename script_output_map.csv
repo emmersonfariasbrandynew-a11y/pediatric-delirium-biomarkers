@@ -1,0 +1,34 @@
+script,analysis_or_output
+01_phase1_data_reconstruction.R,Data preparation and day-specific phenotype counts; Figure 1 cohort counts
+02_phase2_mixed_models.R,Primary phenotype mixed-effects models; Figure 2; SDC6
+04_phase3_inflammatory_panel_FDR.R,Exploratory inflammatory/oxidative panel with FDR correction; SDC6
+07_phase4_mortality.R,TNF-alpha survival models and IQR-scaled estimates
+08_pacote2_4_sedacao_completa.R,Six-agent sedative exposure summary; Supplementary Table 1
+09_pacote_wat1_capd_e_checks.R,CAPD and WAT-1 cross-tabulations; Supplementary Table 5
+14_pacote_wilcoxon_pareado_D1D5.R,Paired biomarker comparisons; manuscript longitudinal results
+18_FIGURA3_REVISED_ROC_com_IL6.R,Figure 3 ROC curves
+20_TABELA9_delta_ajustado_PRISM_sedacao.R,Supplementary Table 9; adjusted delta models
+21_TABELA10_LMM_sepse_covariavel_completo.R,Supplementary Table 10; sepsis-adjusted mixed models
+24_TABELA14_completa_com_CIs.R,Supplementary Table 12; ROC metrics and confidence intervals
+29_TABELA_CRP_COX_bootstrap.R,CRP mortality bootstrap estimates
+30_TABELA27_biomarker_mortality_full.R,Supplementary Table 17; D1 CRP and TNF-alpha Cox models
+31_TABELA1_mortalidade_descritiva.R,Main Table 1 mortality descriptive rows
+32_TABELA23_mortality_LMM_full.R,Supplementary Table 14; mortality mixed-effects models
+33_TABELA14_consistency_score.R,Supplementary Table 11; original ROC selection scores (phenotype main effects only)
+34_TABELA2_wilcoxon_pareado_completo.R,Supplementary Table 2; paired biomarker comparisons
+35_TABELA22_distribuicao_mortalidade.R,Supplementary Table 13; biomarker distribution by mortality
+36_TABELA24_crosssectional_mortalidade.R,Supplementary Table 15; mortality cross-sectional comparisons
+39_TABELA4_distribuicao_fenotipo_contemporaneo.R,Supplementary Table 4; day-specific phenotype distributions
+40_TABELA7_estabilidade_contemporaneo.R,Supplementary Table 6; day-specific contrasts across models
+43_TNF_D1_influence_check.R,TNF-alpha D1 leave-one-out Cox sensitivity
+44_TABLE3_baseline.R,Supplementary Table 3; baseline characteristics by D1 phenotype
+02b_phase2_adjusted_models_summary.R,Adjusted primary model summaries
+06_phase3_influential_obs.R,Influence diagnostics for primary mixed-effects models
+10_pacote_AICBIC_NfL_S100B.R,Primary mixed-model AIC/BIC comparison
+13_pacote_tabela_p_raw_q_FDR.R,Raw p values and FDR q values
+15_FIGURA2_PAINELB_forest_plot_cohens_d.R,Figure 2 Panel B standardized effect estimates
+41_FIGURA2_PAINELA_contemporaneo.R,Figure 2 Panel A image
+16_FIGURA2_PAINELB_plot.R,Figure 2 Panel B image
+42_FIGURA2_combinar_paineis.R,Figure 2 panel composition
+00_check_dependencies.R,Required packages and Kenward-Roger dependency preflight
+46_TABLE14_AUC_WALD_P.R,Supplementary Table 12 two-sided AUC Wald p values using DeLong variance
