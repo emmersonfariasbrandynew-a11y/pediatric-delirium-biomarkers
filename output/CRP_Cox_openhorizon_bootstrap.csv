@@ -1,0 +1,3 @@
+"Model","HR","CI95_lo","CI95_hi","p_value","Bootstrap_p","Bootstrap_CI_lo","Bootstrap_CI_hi"
+"Crude",1.0046,0.9981,1.0112,0.169,0.133,0.9968,1.0139
+"Adjusted (PRISM-IV)",1.0045,0.9979,1.0112,0.18,0.159,0.9955,1.0138

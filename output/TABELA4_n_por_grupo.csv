@@ -1,0 +1,115 @@
+"Biomarker","Time","Group","n"
+"CRP (mg/L)","D1","G1",14
+"CRP (mg/L)","D1","G2",20
+"CRP (mg/L)","D1","G3",11
+"CRP (mg/L)","D5","G1",10
+"CRP (mg/L)","D5","G2",24
+"CRP (mg/L)","D5","G3",11
+"ESR (mm/h)","D1","G1",14
+"ESR (mm/h)","D1","G2",20
+"ESR (mm/h)","D1","G3",11
+"ESR (mm/h)","D5","G1",10
+"ESR (mm/h)","D5","G2",24
+"ESR (mm/h)","D5","G3",11
+"Ferritin (ng/mL)","D1","G1",14
+"Ferritin (ng/mL)","D1","G2",20
+"Ferritin (ng/mL)","D1","G3",11
+"Ferritin (ng/mL)","D5","G1",10
+"Ferritin (ng/mL)","D5","G2",24
+"Ferritin (ng/mL)","D5","G3",11
+"NLR","D1","G1",14
+"NLR","D1","G2",20
+"NLR","D1","G3",11
+"NLR","D5","G1",10
+"NLR","D5","G2",24
+"NLR","D5","G3",11
+"PLR","D1","G1",14
+"PLR","D1","G2",20
+"PLR","D1","G3",11
+"PLR","D5","G1",10
+"PLR","D5","G2",24
+"PLR","D5","G3",11
+"CRP/Albumin ratio","D1","G1",14
+"CRP/Albumin ratio","D1","G2",20
+"CRP/Albumin ratio","D1","G3",11
+"CRP/Albumin ratio","D5","G1",10
+"CRP/Albumin ratio","D5","G2",24
+"CRP/Albumin ratio","D5","G3",11
+"VIS","D1","G1",14
+"VIS","D1","G2",20
+"VIS","D1","G3",11
+"VIS","D5","G1",10
+"VIS","D5","G2",24
+"VIS","D5","G3",10
+"IL-2 (pg/mL)","D1","G1",14
+"IL-2 (pg/mL)","D1","G2",20
+"IL-2 (pg/mL)","D1","G3",11
+"IL-2 (pg/mL)","D5","G1",10
+"IL-2 (pg/mL)","D5","G2",24
+"IL-2 (pg/mL)","D5","G3",11
+"IL-4 (pg/mL)","D1","G1",14
+"IL-4 (pg/mL)","D1","G2",20
+"IL-4 (pg/mL)","D1","G3",11
+"IL-4 (pg/mL)","D5","G1",10
+"IL-4 (pg/mL)","D5","G2",24
+"IL-4 (pg/mL)","D5","G3",11
+"IL-6 (pg/mL)","D1","G1",14
+"IL-6 (pg/mL)","D1","G2",20
+"IL-6 (pg/mL)","D1","G3",11
+"IL-6 (pg/mL)","D5","G1",10
+"IL-6 (pg/mL)","D5","G2",24
+"IL-6 (pg/mL)","D5","G3",11
+"IL-10 (pg/mL)","D1","G1",14
+"IL-10 (pg/mL)","D1","G2",20
+"IL-10 (pg/mL)","D1","G3",11
+"IL-10 (pg/mL)","D5","G1",10
+"IL-10 (pg/mL)","D5","G2",24
+"IL-10 (pg/mL)","D5","G3",11
+"IL-17A (pg/mL)","D1","G1",14
+"IL-17A (pg/mL)","D1","G2",20
+"IL-17A (pg/mL)","D1","G3",11
+"IL-17A (pg/mL)","D5","G1",10
+"IL-17A (pg/mL)","D5","G2",24
+"IL-17A (pg/mL)","D5","G3",11
+"IFN-gamma (pg/mL)","D1","G1",14
+"IFN-gamma (pg/mL)","D1","G2",20
+"IFN-gamma (pg/mL)","D1","G3",11
+"IFN-gamma (pg/mL)","D5","G1",10
+"IFN-gamma (pg/mL)","D5","G2",24
+"IFN-gamma (pg/mL)","D5","G3",11
+"TNF-alfa (pg/mL)","D1","G1",14
+"TNF-alfa (pg/mL)","D1","G2",20
+"TNF-alfa (pg/mL)","D1","G3",11
+"TNF-alfa (pg/mL)","D5","G1",10
+"TNF-alfa (pg/mL)","D5","G2",24
+"TNF-alfa (pg/mL)","D5","G3",11
+"TEAC (mmol/L)","D1","G1",14
+"TEAC (mmol/L)","D1","G2",20
+"TEAC (mmol/L)","D1","G3",11
+"TEAC (mmol/L)","D5","G1",10
+"TEAC (mmol/L)","D5","G2",24
+"TEAC (mmol/L)","D5","G3",11
+"TBARS (umol/L)","D1","G1",14
+"TBARS (umol/L)","D1","G2",20
+"TBARS (umol/L)","D1","G3",11
+"TBARS (umol/L)","D5","G1",10
+"TBARS (umol/L)","D5","G2",24
+"TBARS (umol/L)","D5","G3",11
+"GSH (umol/mL)","D1","G1",14
+"GSH (umol/mL)","D1","G2",20
+"GSH (umol/mL)","D1","G3",11
+"GSH (umol/mL)","D5","G1",10
+"GSH (umol/mL)","D5","G2",24
+"GSH (umol/mL)","D5","G3",11
+"S100B (ng/mL)","D1","G1",14
+"S100B (ng/mL)","D1","G2",20
+"S100B (ng/mL)","D1","G3",11
+"S100B (ng/mL)","D5","G1",10
+"S100B (ng/mL)","D5","G2",24
+"S100B (ng/mL)","D5","G3",11
+"NfL (ng/mL)","D1","G1",14
+"NfL (ng/mL)","D1","G2",20
+"NfL (ng/mL)","D1","G3",11
+"NfL (ng/mL)","D5","G1",10
+"NfL (ng/mL)","D5","G2",24
+"NfL (ng/mL)","D5","G3",11
